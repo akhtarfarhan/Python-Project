@@ -1,1 +1,1 @@
-# Python-Project
+# Python Salary Analysis Project
